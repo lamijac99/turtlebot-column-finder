@@ -8,7 +8,7 @@ This project uses a Turtlebot (Kobuki base) to detect, approach, and navigate ar
 - Depth estimation using depth camera
 
 ## Requirements
-- Python 2.7 or 3.x
+- Python 2.7
 - OpenCV
 - NumPy
 - `robolab_turtlebot` package
